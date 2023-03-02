@@ -1,0 +1,13 @@
+{
+  "name": "3.live",
+  "version": "1.0.0",
+  "description": "1. React-TypeScript Cheatsheet: https://github.com/typescript-cheatsheets/react 2. VS Code Error lens extension: https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc src/file.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
